@@ -1,4 +1,3 @@
-# TheWhiteHats
 
 ## Name
 Hridya V Ajit
